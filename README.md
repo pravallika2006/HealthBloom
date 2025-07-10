@@ -8,9 +8,6 @@
 - 💪 **Healthy Habits:** Daily routines, fitness suggestions, and sleep hygiene practices.
 - 🩺 **Seasonal Disease Remedies:** Timely prevention and care for common seasonal illnesses.
 - 🔥 **Calorie Checker:** Basic tool to estimate daily calorie intake needs and food tracking.
-- 📄 **Report Upload:** Allows users to attach health records (prototype version).
-- 📅 **Appointment Scheduler:** Book virtual consultations with general physicians.
-- 🔐 **Secure Chat:** Placeholder chat module for patient-doctor interactions.
 
 ## 👩‍💻 Tech Stack
 
